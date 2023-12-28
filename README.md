@@ -51,7 +51,7 @@ C:.<br>
 <br>
 
 ## 기술 스택
-<div style="width: 250px; height: 100px;">
+<div style="width: 230px; height: 100px;">
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black" width="200" height="100">
   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" width="200" height="100">
   <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" width="200" height="100">
