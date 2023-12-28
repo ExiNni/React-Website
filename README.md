@@ -48,17 +48,6 @@ C:.<br>
         TodoNoCss.js<br>
         <br>
 
-<p align="justify">
-프로젝트를 만들게 된 개요나 동기를 작성해주세요.
-</p>
-
-<p align="center">
-여러분이 만든 프로젝트를 캡쳐하거나 <strong>GIF</strong> 화면으로 만들어 <br />
-상대방이 프로젝트를 예시로 한 번에 볼수 있게 만들어주는게 좋습니다.<br />
-또는 배포하여 프로젝트 사이트를 올려도 좋습니다.<br />
-<strong>GIF</strong> 또는 <strong>Images</strong>
-</p>
-
 <br>
 
 ## 기술 스택
