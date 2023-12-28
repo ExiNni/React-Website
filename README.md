@@ -2,8 +2,7 @@
 
 <p align="center">
   <br>
-  이미지는 추후에 변경하시거나 삭제하시면 됩니다.<br /> 보통 메인 이미지를 올려놓습니다.<br />
-  <img src="https://img.freepik.com/free-vector/video-conference-remote-working-flat-illustration-screen-laptop-with-group-colleagues-people-conn_88138-548.jpg?w=900&t=st=1691033873~exp=1691034473~hmac=36bcd6579f5373a2f4555b77b3c120770cb7ab06608a267b80ca7ec436648620">
+  <img src="https://github.com/ExiNni/React-Website/blob/master/img/%EB%A6%AC%EC%95%A1%ED%8A%B81.PNG"/>
   <br>
 </p>
 
