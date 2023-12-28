@@ -9,7 +9,7 @@
 
 
 ## 프로젝트 소개
-C:.
+C:.  <br/>
 │  App.css
 │  App.js
 │  App.test.js
@@ -20,26 +20,26 @@ C:.
 │  reportWebVitals.js
 │  setupTests.js
 │
-├─Component
+├─Component <br/>
 │      Footer.js
 │      Header.js
 │      Home.js
 │
-├─Game
+├─Game  <br/>
 │      NumberGuessingGame.css
 │      NumberGuessingGame.js
 │      Quiz.css
 │      Quiz.js
 │
-├─Menu
+├─Menu  <br/>
 │      Menu.js
 │
-├─Movie
+├─Movie  <br/>
 │      MovieCard.css
 │      MovieCard.js
 │      MovieList.js
 │
-└─TodoList
+└─TodoList  <br/>
         CreatePage.js
         ListPage.js
         Todo.js
