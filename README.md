@@ -9,43 +9,44 @@
 
 
 ## 프로젝트 소개
-C:.  <br/>
-│  App.css
-│  App.js
-│  App.test.js
-│  AppMain.js
-│  index.css
-│  index.js
-│  logo.svg
-│  reportWebVitals.js
-│  setupTests.js
-│
-├─Component <br/>
-│      Footer.js
-│      Header.js
-│      Home.js
-│
-├─Game  <br/>
-│      NumberGuessingGame.css
-│      NumberGuessingGame.js
-│      Quiz.css
-│      Quiz.js
-│
-├─Menu  <br/>
-│      Menu.js
-│
-├─Movie  <br/>
-│      MovieCard.css
-│      MovieCard.js
-│      MovieList.js
-│
-└─TodoList  <br/>
-        CreatePage.js
-        ListPage.js
-        Todo.js
-        TodoList.js
-        TodoListPractice.js
-        TodoNoCss.js
+C:.<br>
+│  App.css<br>
+│  App.js<br>
+│  App.test.js<br>
+│  AppMain.js<br>
+│  index.css<br>
+│  index.js<br>
+│  logo.svg<br>
+│  reportWebVitals.js<br>
+│  setupTests.js<br>
+│<br>
+├─Component<br>
+│      Footer.js<br>
+│      Header.js<br>
+│      Home.js<br>
+│<br>
+├─Game<br>
+│      NumberGuessingGame.css<br>
+│      NumberGuessingGame.js<br>
+│      Quiz.css<br>
+│      Quiz.js<br>
+│<br>
+├─Menu<br>
+│      Menu.js<br>
+│<br>
+├─Movie  <br>
+│      MovieCard.css<br>
+│      MovieCard.js<br>
+│      MovieList.js<br>
+│<br>
+└─TodoList<br>
+        CreatePage.js<br>
+        ListPage.js<br>
+        Todo.js<br>
+        TodoList.js<br>
+        TodoListPractice.js<br>
+        TodoNoCss.js<br>
+        <br>
 
 <p align="justify">
 프로젝트를 만들게 된 개요나 동기를 작성해주세요.
