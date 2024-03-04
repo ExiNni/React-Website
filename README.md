@@ -71,44 +71,6 @@ C:.<br>
 
 <br>
 
-
-## 3. 구현 기능
-
-### 기능 1
-<img src="">
-<p align="justify">
-설명란
-</p>
-<br>
-
-### 기능 2
-<img src="">
-<p align="justify">
-설명란
-</p>
-<br>
-
-### 기능 3
-<img src="">
-<p align="justify">
-설명란
-</p>
-<br>
-
-### 기능 4
-<img src="">
-<p align="justify">
-설명란
-</p>
-<br>
-
-## 4. 피드백
-
-<p align="justify">
-4-1. 좋았던 점
-
-4-2. 아쉬웠던 점
-
 </p>
 
 <br>
